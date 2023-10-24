@@ -1,4 +1,5 @@
-const admin = require('../../config/firebase-config');
+const firebase_config = require('../../config/firebase-config');
+admin = firebase_config.admin
 
 async function registerWithEmail(req, res) {
   const { email, password } = req.body;
