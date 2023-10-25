@@ -24,5 +24,6 @@ node server.js
 * Prompt
 * Setting
 * EmbeddingDocument.
-### We will be using opensource LLM model [**Langchain**](https://www.npmjs.com/package/langchain) for building the chatgpt features for multiple users.
+### Opensource LLM model [**Langchain**](https://www.npmjs.com/package/langchain) will be used for building the chatgpt features for multiple users.
+### It will using websocket for realtime chat between multiple users and LLM.
 
