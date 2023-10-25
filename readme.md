@@ -1,6 +1,7 @@
 # **ChatGPT Server NodeJs**
 
 ## This projects aims to migrate the [chatgpt-ui-server](https://github.com/WongSaang/chatgpt-ui-server) from Django to NodeJs and Firebase
+## It will have additional features, like multiple users can share one chat etc.
 
 ## Install the required packages
 ```node
