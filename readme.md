@@ -20,5 +20,5 @@ npm install
 * Prompt
 * Setting
 * EmbeddingDocument.
-## We will be using opensource LLM model [**Langchain**](https://www.npmjs.com/package/langchain) for building the chatgpt features for multiple users.
+### We will be using opensource LLM model [**Langchain**](https://www.npmjs.com/package/langchain) for building the chatgpt features for multiple users.
 
