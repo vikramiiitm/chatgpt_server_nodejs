@@ -6,6 +6,10 @@
 ```node
 npm install
 ```
+## To run the project
+```node
+node server.js
+```
 
 # Description Of Modules
 
